@@ -44,7 +44,7 @@ Me interesan especialmente la ciencia, el análisis de datos y el deep learning 
 ## Actualmente
 
 - Personal de I+D en [MAMI Lab](https://mamilab.eu/)
-- Desarrollador y administrador web de la página oficial del congreso [UcAmI](https://ucami.org/)
+- Desarrollador y administrador web de la página oficial del congreso internacional [UcAmI](https://ucami.org/)
 - Desarrollo de soluciones para monitorización de salud y análisis de la marcha humana
 
 ---
