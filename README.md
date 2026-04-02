@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Language:</strong>
   <a href="./README.en.md">English</a> ·
-  <a href="./README.esp.md">Español</a> 
+  <a href="./README.esp.md">Spanish</a> 
 </p>
 
 <h1 align="center">Marcos Redondo Madruga</h1>
