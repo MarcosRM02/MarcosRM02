@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Idioma:</strong>
-  <a href="./README.md">English</a> ·
+  <a href="./README.md">Inglés</a> ·
   <a href="./README.esp.md">Español</a> 
 </p>
 
