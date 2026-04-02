@@ -1,14 +1,20 @@
-<!-- README de perfil para el repositorio especial: MarcosRM02/MarcosRM02 -->
+<!-- Profile README for the special repository: MarcosRM02/MarcosRM02 -->
+
+<p align="center">
+  <strong>Language:</strong>
+  <a href="./README.en.md">English</a> ·
+  <a href="./README.esp.md">Español</a> 
+</p>
 
 <h1 align="center">Marcos Redondo Madruga</h1>
 
 <p align="center">
-  Ingeniero de Software · Máster en IA · IoT · Tecnologías Asistivas
+  Software Engineer · Master's in AI · IoT · Assistive Technologies
 </p>
 
 <p align="center">
-  Diseño soluciones donde monitorización de la salud, ciencia y análisis de datos
-  se unen para mejorar vidas.
+  I design solutions where health monitoring, science, and data analysis
+  come together to improve lives.
 </p>
 
 <p align="center">
@@ -31,53 +37,53 @@
 
 ---
 
-## Sobre mí
+## About me
 
-Soy **Ingeniero de Software** y trabajo en la intersección entre **tecnologías asistivas, IoT e Inteligencia Artificial**, actualmente en [MAmI Lab](https://mamilab.eu/) y cursando el [Máster en Inteligencia Artificial de la Universidad de Castilla-La Mancha](https://www.uclm.es/estudios/masteres/master-inteligencia-artificial).
+I am a **Software Engineer** working at the intersection of **assistive technologies, IoT, and Artificial Intelligence**, currently at [MAmI Lab](https://mamilab.eu/) while pursuing the [Master's Degree in Artificial Intelligence at the University of Castilla-La Mancha](https://www.uclm.es/estudios/masteres/master-inteligencia-artificial).
 
-Me interesan especialmente la ciencia, el análisis de datos y el deep learning aplicados a problemas reales. A largo plazo, quiero seguir formándome con un **doctorado** y combinar ese recorrido con mi desarrollo profesional en la **empresa**, manteniendo siempre un vínculo entre investigación, tecnología e impacto real.
-
----
-
-## Actualmente
-
-- Personal de I+D en [MAmI Lab](https://mamilab.eu/).
-- Desarrollador y administrador web de la página oficial del congreso internacional [UCAmI](https://ucami.org/).
-- Desarrollo de soluciones para monitorización de salud, rehabilitación y análisis de la marcha humana.
-- Trabajo con visualización de datos científicos, biomecánica y generación sintética de datos mediante deep learning.
+I am especially interested in science, data analysis, and deep learning applied to real-world problems. In the long term, I want to continue my academic path with a **PhD** while combining it with professional growth in **industry**, always keeping a strong connection between research, technology, and real impact.
 
 ---
 
-## Stack tecnológico
+## Currently
 
-- **Lenguajes:** `Java`, `Python`, `C/C++`, `TypeScript`, `HTML`, `CSS`
-- **Frameworks y tecnologías:** `React`, `Angular`, `Node.js`, `NestJS`, `Spring Boot`, `PyTorch`
-- **Bases de datos:** `PostgreSQL`, `MySQL`, `SQL Server`, `MongoDB`, `Redis`
-- **Herramientas:** `Git`, `GitHub`, `Azure DevOps`, `Docker`, `SonarQube`, `SonarLint`, `Firebase`, `Render`
-
----
-
-## Áreas de interés
-
-- Inteligencia Artificial aplicada
-- Ciencia y análisis de datos
-- Deep Learning y datos sintéticos
-- Software y soluciones data-driven
-- Salud y tecnologías asistivas
-- IoT y wearables
-- Investigación aplicada y desarrollo tecnológico
+- R&D staff at [MAmI Lab](https://mamilab.eu/).
+- Web developer and administrator for the official website of the international [UCAmI](https://ucami.org/) conference.
+- Building solutions for health monitoring, rehabilitation, and human gait analysis.
+- Working on scientific data visualization, biomechanics, and synthetic data generation using deep learning.
 
 ---
 
-## Formación
+## Tech stack
 
-- [Grado en Ingeniería Informática](https://esi.uclm.es/), Programa Bilingüe, Mención en Ingeniería del Software
-- [Máster en Inteligencia Artificial](https://www.uclm.es/estudios/masteres/master-inteligencia-artificial)
-- Idiomas: Español nativo · Inglés B2 (Cambridge English First, Grade B)
+- **Languages:** `Java`, `Python`, `C/C++`, `TypeScript`, `HTML`, `CSS`
+- **Frameworks and technologies:** `React`, `Angular`, `Node.js`, `NestJS`, `Spring Boot`, `PyTorch`
+- **Databases:** `PostgreSQL`, `MySQL`, `SQL Server`, `MongoDB`, `Redis`
+- **Tools:** `Git`, `GitHub`, `Azure DevOps`, `Docker`, `SonarQube`, `SonarLint`, `Firebase`, `Render`
 
 ---
 
-## Contacto
+## Areas of interest
+
+- Applied Artificial Intelligence
+- Science and data analysis
+- Deep Learning and synthetic data
+- Software and data-driven solutions
+- Health and assistive technologies
+- IoT and wearables
+- Applied research and technology development
+
+---
+
+## Education
+
+- [Bachelor's Degree in Computer Engineering](https://esi.uclm.es/), Bilingual Program, specialization in Software Engineering
+- [Master's Degree in Artificial Intelligence](https://www.uclm.es/estudios/masteres/master-inteligencia-artificial)
+- Languages: Native Spanish · English B2 (Cambridge English First, Grade B)
+
+---
+
+## Contact
 
 - **Email:** [marcos.informatica02@gmail.com](mailto:marcos.informatica02@gmail.com)
 - **LinkedIn:** [Marcos Redondo Madruga](https://www.linkedin.com/in/marcos-redondo-madruga-6798242b9/)
