@@ -54,14 +54,6 @@ Me interesan especialmente la ciencia, el análisis de datos y el deep learning 
 
 ---
 
-## Premios y reconocimientos
-
-- **Best Paper Award** en **UCAmI 2025**, en la track *Internet of EveryThing (IoT, People & Processes) and Sensors*, por el artículo *Scientific Data Visualization Tool for Enhanced Gait Pattern Recognition Using Sensorized Insoles*.
-- **Matrícula de Honor en el TFG** por *MVP-Gait: A software platform for the management and visualization of information in studies of human gait*.
-- **Premio al Mejor TFG** por la calidad del diseño de arquitectura técnica y del código fuente, otorgado por [Furious Koalas](https://www.furiouskoalas.com/) / Escuela Superior de Informática (UCLM).
-
----
-
 ## Stack tecnológico
 
 - **Lenguajes:** `Java`, `Python`, `C/C++`, `TypeScript`, `HTML`, `CSS`
