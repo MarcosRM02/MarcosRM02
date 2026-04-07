@@ -90,3 +90,4 @@ Me interesan especialmente la ciencia, el análisis de datos y el deep learning 
 - **ORCID:** [0009-0009-4175-905X](https://orcid.org/0009-0009-4175-905X)
 - **GitHub:** [MarcosRM02](https://github.com/MarcosRM02)
 - **MAmI Lab:** [mamilab.eu](https://mamilab.eu/)
+- **Portfolio:** [Portfolio](https://portfolio-marcosrm02s-projects.vercel.app/)
